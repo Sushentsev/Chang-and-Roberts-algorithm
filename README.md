@@ -1,4 +1,4 @@
-﻿# The Peterson/Dolev-Klawe-Rodeh Algorithm 
+﻿# Chang-and-Roberts-algorithm
 
 ## Setup:
 
